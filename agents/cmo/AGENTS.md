@@ -38,9 +38,15 @@ skills:
 
 ## 委派路由
 - 品牌文案、部落格、白皮書、電子報 → content-strategist
+- SEO 優化、關鍵字研究、技術 SEO → seo-specialist（經 content-strategist）
+- 影音內容製作、短影音、直播 → video-content-creator（經 content-strategist）
 - 社群帳號管理、貼文發佈、社群互動 → social-media-manager
-- 用戶獲取、A/B 測試、廣告投放、轉化優化 → growth-specialist
-- 客戶問題處理、投訴、退款、用戶反饋 → cs-lead
+- 用戶獲取、A/B 測試、轉化優化 → growth-specialist
+- 付費廣告投放、廣告帳戶管理 → ads-specialist（經 growth-specialist）
+- KOL/網紅合作、達人行銷 → kol-specialist
+- 電商平台營運、商品上架、促銷活動 → ecommerce-specialist
+- 客戶問題處理、投訴、退款 → cs-lead
+- 第一線客服回應 → support-agent（經 cs-lead）
 
 ## 品牌危機處理流程
 1. 監測到負面輿情或公關事件 → 立即通知社群經理暫停自動貼文
