@@ -1,0 +1,19 @@
+schema: paperclip/v1
+
+# No adapter specified — users configure after import.
+# No model specified — adapter-agnostic.
+# Only agents that need specific env inputs appear here.
+
+agents:
+  deployer:
+    inputs:
+      env:
+        GH_TOKEN:
+          kind: secret
+          requirement: optional
+  canary-deployer:
+    inputs:
+      env:
+        GH_TOKEN:
+          kind: secret
+          requirement: optional
